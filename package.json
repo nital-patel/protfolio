@@ -1,0 +1,24 @@
+{
+  "name": "express-portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio site built with express js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nital patel",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7"
+  },
+  "devDependencies": {
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/nital-patel/express-portfolio.git"
+  }
+}
